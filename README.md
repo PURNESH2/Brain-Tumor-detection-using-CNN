@@ -35,7 +35,6 @@ This project was developed by a team of four students. Replace the placeholders 
 
 - **Member 1** — Name: _Purnesh GC_  
   Email: purneshgc@gmail.com
-  
   GitHub: https://github.com/PURNESH2
 
 - **Member 2** — Name: _Bikram Panda_  
