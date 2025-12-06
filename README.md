@@ -1,28 +1,6 @@
 \# Brain Tumor MRI Classification using Deep Learning
 
-\# Brain Tumor MRI Classification using Deep Learning
-
-
-
-\[!\[Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-
-\[!\[TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-orange.svg)](https://www.tensorflow.org/)
-
-\[!\[License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-\[!\[Accuracy](https://img.shields.io/badge/Accuracy-92.22%25-success.svg)]()
-
-\[!\[ROC AUC](https://img.shields.io/badge/ROC%20AUC-97.46%25-success.svg)]()
-
-
-
 A deep learning-based automated brain tumor classification system that analyzes MRI images to detect the presence of tumors using Convolutional Neural Networks (CNN) with transfer learning.
-
-
-
----
-
-
 
 \## 📋 Table of Contents
 
