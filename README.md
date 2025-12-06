@@ -34,20 +34,20 @@ Key points:
 This project was developed by a team of four students. Replace the placeholders below with actual names and contact details.
 
 - **Member 1** — Name: _Purnesh GC_  
-  Email: purnesh@example.com  
-  GitHub: https://github.com/purnesh
+  Email: purneshgc@gmail.com 
+  GitHub: https://github.com/PURNESH2
 
 - **Member 2** — Name: _Bikram Panda_  
-  Email: member2@example.com  
-  GitHub: https://github.com/member2
+  Email: bikram.panda6503@gmail.com  
+  GitHub: https://github.com/bikram-0605
 
 - **Member 3** — Name: _C Sai Krishna_    
-  Email: member3@example.com  
-  GitHub: https://github.com/member3
+  Email: saikrishnachakkara@gmail.com
+  GitHub: https://github.com/csaikrishna04
 
 - **Member 4** — Name: _Yuvraj V_    
-  Email: member4@example.com  
-  GitHub: https://github.com/member4
+  Email: yuvrajwhitefield2019@gmail.com  
+  GitHub: https://github.com/Yuvraj-v15
 
 ---
 
