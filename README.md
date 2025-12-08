@@ -137,11 +137,10 @@ dataset/
 ```
 brain-tumor-classification/
 ├── main.py
-├── test_inference.py
+├── test.py
 ├── convert_model.py
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 ├── dataset/
 └── model/
 ```
